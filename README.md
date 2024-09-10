@@ -12,4 +12,4 @@ This project is an interactive audio and video player application aimed at enhan
 - Circular progress indicator with animation
 - Responsive design
 
-## Demo: [https://starlit-gelato-866845.netlify.app/](here)
+## Demo: [here](https://starlit-gelato-866845.netlify.app/)
